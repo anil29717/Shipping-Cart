@@ -1,0 +1,6 @@
+.hero-section-image{
+    background-image: url(./hero-section.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 400px;
+}

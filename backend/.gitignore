@@ -1,0 +1,4 @@
+# Ignore environment configuration files
+/config/config.env
+config.env
+*.env
