@@ -7,3 +7,4 @@ node_modules
 #enviornment variables
 frontend/.env
 backend/config.env
+.vercel
